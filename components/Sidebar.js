@@ -10,7 +10,7 @@ const Sidebar = () => {
       <Image
         width={300}
         height={100}
-        src={`/public/logo.jpeg`}
+        src={`/logo.jpeg`}
         alt="imagen logotipo"
       />
       <nav className="mt-10">
