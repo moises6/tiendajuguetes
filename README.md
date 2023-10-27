@@ -12,6 +12,23 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+#Otros
+npm i
+
+npm i -D prisma
+
+npx prisma generate
+
+npx prisma db push
+
+npm i axios
+
+npm i swr
+
+npm i ts-node    
+
+npx prisma db seed
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
